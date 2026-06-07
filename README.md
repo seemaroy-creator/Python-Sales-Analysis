@@ -5,8 +5,9 @@ Python-based sales analytics project demonstrating data cleaning, analysis, and 
 Python, pandas, NumPy, Matplotlib & Seaborn, Jupyter Notebook
 
 # Analysis
-**Data cleaning:** Handled null values, fixed data types.
-**Exploratory Data Analysis (EDA)**: analysing spending power and order voume between genders, Identifying the highest spending age brackets.
+ **Data cleaning:** Handled null values, fixed data types.
+ 
+ **Exploratory Data Analysis (EDA)**: analysing spending power and order voume between genders, Identifying the highest spending age brackets.
 mapping out top performing states by sales volume and pointing the most popular items sold.
 
 # Key Insights
